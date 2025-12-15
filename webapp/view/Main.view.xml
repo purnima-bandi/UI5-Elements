@@ -3,7 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="Helloworld">
     <content>
-    <Text id="_IDGenText"  text ="I am an aspiring SAP BTP and SAP Fiori Developer with a strong interest in building modern, user-friendly, and scalable enterprise applications. I have hands-on knowledge of SAP Fiori, SAPUI5, and basic SAP BTP services, and I enjoy creating intuitive UI experiences that simplify complex business processes."></Text>
+    <Text id="Text1"  text ="I am an aspiring SAP BTP and SAP Fiori Developer with a strong interest in building modern, user-friendly, and scalable enterprise applications. I have hands-on knowledge of SAP Fiori, SAPUI5, and basic SAP BTP services, and I enjoy creating intuitive UI experiences that simplify complex business processes."></Text>
+      <Text id="Text2"  text ="I am an aspiring SAP BTP and SAP Fiori Developer with a strong interest in building modern, user-friendly, and scalable enterprise applications. I have hands-on knowledge of SAP Fiori, SAPUI5, and basic SAP BTP services, and I enjoy creating intuitive UI experiences that simplify complex business processes."></Text>  
       </content>
     </Page>
   
