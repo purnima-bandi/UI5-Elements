@@ -1,0 +1,10 @@
+<mvc:View controllerName="com.purnima.project1.project1.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="Helloworld">
+    <content>
+    <Text id="_IDGenText"  text ="I am an aspiring SAP BTP and SAP Fiori Developer with a strong interest in building modern, user-friendly, and scalable enterprise applications. I have hands-on knowledge of SAP Fiori, SAPUI5, and basic SAP BTP services, and I enjoy creating intuitive UI experiences that simplify complex business processes."></Text>
+      </content>
+    </Page>
+  
+</mvc:View>
